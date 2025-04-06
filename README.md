@@ -11,4 +11,4 @@
 Апк https://drive.google.com/file/d/1AD5u5CWbdRqQJ2hKrdTPxUoDtNfixSw5/view?usp=drivesdk
 Архив https://drive.google.com/file/d/1AG9VwdxCayGMb8Pk0cha0cASDNLo8g2k/view?usp=drivesdk
 ## Скриншоты
-![ABS-V56-Update-06.04.2025](https://raw.githubusercontent.com/KotikMyauMur24/ABS-V56-Update-06.04.2025/main/Скриншоты/Меню.png)
+![ABS-V56-Update-06.04.2025](https://raw.githubusercontent.com/KotikMyauMur24/ABS-V56-Update-06.04.2025/main/Меню.png)
